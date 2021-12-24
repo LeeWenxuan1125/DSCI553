@@ -1,6 +1,6 @@
-Map Reduce, Spark
-Apriori, Son
-LSH and Recommendation System
-Community Detection from Graph
-Streaming large data set
-Kmeans for large data set
+Map Reduce, Spark<p>
+Apriori, Son<p>
+LSH and Recommendation System<p>
+Community Detection from Graph<p>
+Streaming large data set<p>
+Kmeans for large data set<p>
